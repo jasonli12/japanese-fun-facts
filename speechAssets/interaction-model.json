@@ -1,8 +1,8 @@
 {
   "intents": [
     {
-      "name": "AMAZON.CancelIntent",  
-      "samples": []  
+      "name": "AMAZON.CancelIntent",
+      "samples": []
     },
     {
       "name": "AMAZON.HelpIntent",
@@ -15,20 +15,27 @@
     {
       "name": "GetNewFactIntent",
       "samples": [
-        "a fact",
-        "a space fact",
-        "tell me a fact",
-        "tell me a space fact",
-        "give me a fact",
-        "give me a space fact",
-        "tell me trivia",
-        "tell me a space trivia",
-        "give me trivia",
-        "give me a space trivia",
-        "give me some information",
-        "give me some space information",
-        "tell me something",
-        "give me something"
+        "Give me a fact",
+        "Tell me a fact",
+        "Tell me something",
+        "Tell me something about Japan",
+        "What's my daily fact",
+        "Let me know something about Japan",
+        "What's the scoop",
+        "Tell me a fact about Japan",
+        "Give me a fact on Japan",
+        "What's Japan",
+        "What's Japan about",
+        "Tell me something I don't know about Japan",
+        "Japan",
+        "Japanese",
+        "Japanese fact",
+        "Japan fact",
+        "Facts about Japan",
+        "Facts about Japanese",
+        "Something about Japan",
+        "Tell me something interesting about Japan",
+        "Fun facts about Japan"
       ],
       "slots": []
     }

@@ -1,14 +1,21 @@
-GetNewFactIntent a fact
-GetNewFactIntent a space fact
-GetNewFactIntent tell me a fact
-GetNewFactIntent tell me a space fact
-GetNewFactIntent give me a fact
-GetNewFactIntent give me a space fact
-GetNewFactIntent tell me trivia
-GetNewFactIntent tell me a space trivia
-GetNewFactIntent give me trivia
-GetNewFactIntent give me a space trivia
-GetNewFactIntent give me some information
-GetNewFactIntent give me some space information
-GetNewFactIntent tell me something
-GetNewFactIntent give me something
+GetNewFactIntent Give me a fact
+GetNewFactIntent Tell me a fact
+GetNewFactIntent Tell me something
+GetNewFactIntent Tell me something about Japan
+GetNewFactIntent What's my daily fact
+GetNewFactIntent Let me know something about Japan
+GetNewFactIntent What's the scoop
+GetNewFactIntent Tell me a fact about Japan
+GetNewFactIntent Give me a fact on Japan
+GetNewFactIntent What's Japan
+GetNewFactIntent What's Japan about"
+GetNewFactIntent Tell me something I don't know about Japan
+GetNewFactIntent Japan
+GetNewFactIntent Japanese
+GetNewFactIntent Japanese fact
+GetNewFactIntent Japan fact
+GetNewFactIntent Facts about Japan
+GetNewFactIntent Facts about Japanese
+GetNewFactIntent Something about Japan
+GetNewFactIntent Tell me something interesting about Japan
+GetNewFactIntent Fun facts about Japan
